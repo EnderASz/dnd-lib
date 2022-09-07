@@ -1,6 +1,6 @@
-from dataclasses import dataclass
-import random
 import typing as t
+
+from dataclasses import dataclass
 
 from pydantic import BaseModel, Field
 
